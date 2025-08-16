@@ -4,11 +4,10 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science at 42 Paris.
-- 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
-- 🌱 &nbsp; Learning more about Cybersecurity and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+- 🎓 &nbsp; Computer Science student at 42 Paris, immersed in hands-on, peer-to-peer learning.
+- 🔐 &nbsp; Passionate about Cybersecurity and Artificial Intelligence, with a focus on ethical hacking and machine learning.
+- 💼 &nbsp; Actively seeking an internship to apply my skills in real-world tech environments and contribute to impactful projects.
+- 🧠 &nbsp; Continuously exploring emerging technologies and building innovative solutions through collaborative coding.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
