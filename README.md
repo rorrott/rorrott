@@ -44,7 +44,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/AVS1508/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Rodrigo%20Torres%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/AVS1508/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-rodrigo%20rorres%20t-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:rodrigo.torres.tapia@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-rodrigo.torres.tapia@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
