@@ -1,5 +1,4 @@
 
-<img src="https://raw.githubusercontent.com/rorrott/rorrott/master/assets/Rodrigo%20Torres%20Banner.png">
 
 <h2> Hey there! I'm Rodrigo.</h2>
 
